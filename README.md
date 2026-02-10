@@ -1,6 +1,8 @@
 # Coffee Sales Analysis Project in Excel
 ## Project Overview
 This project presents an interactive Coffee Sales Dashboard designed to analyze multi-year coffee sales performance (2019–2022) across products, countries, customers, and purchasing behaviors. The dashboard enables stakeholders to explore trends using dynamic filters such as time period, roast type, cup size, and loyalty card status.
+<img width="1548" height="853" alt="Screenshot 2026-02-09 234855" src="https://github.com/user-attachments/assets/5fb1604c-3cd4-4bd0-a695-7e9fa18a45b2" />
+
 ## Analytical Questions / Problems to Solve
 - Which coffee type generates the most consistent revenue over time?
 - Are there seasonal patterns in coffee sales across years?
@@ -10,7 +12,7 @@ This project presents an interactive Coffee Sales Dashboard designed to analyze 
 - Which product sizes and roast types should be prioritized for inventory optimization?
 
 The primary objective is to support data-driven decision-making in pricing, customer segmentation, inventory planning, and market expansion
-<img width="1548" height="853" alt="Screenshot 2026-02-09 234855" src="https://github.com/user-attachments/assets/5fb1604c-3cd4-4bd0-a695-7e9fa18a45b2" />
+
 ## Analysis & Insights
 1. Sales Trends Over Time
 - Sales show high volatility month-to-month, indicating sensitivity to seasonality or promotions.
